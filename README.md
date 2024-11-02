@@ -1,4 +1,4 @@
-OIL PRICE SHOCK ANALYSIS
+Impact of Oil Price Fluctuations on Energy Sector’s Stock Returns
 
 	Repository Structure
 	This repository contains all files related to the Oil Price Shock Analysis project, including the code, data files, project report, and README.
